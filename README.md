@@ -27,3 +27,4 @@ A surf camp landing page made using strapi
     "meta": {}
 }
 ```
+- We can create reusable components using the Content Type Builder such as Logo which has attributes like logoText, image or Link component used in navigation bar. We can add attributes to them such as text, boolean
