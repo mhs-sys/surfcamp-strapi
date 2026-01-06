@@ -28,3 +28,5 @@ A surf camp landing page made using strapi
 }
 ```
 - We can create reusable components using the Content Type Builder such as Logo which has attributes like logoText, image or Link component used in navigation bar. We can add attributes to them such as text, boolean
+- We can then make use of these components to create an even larger component like the Hero-Section that makes use of the logo component, image, heading, link component. We can put them inside a collection called blocks
+- We can now add these blocks to our single type such as the Home Page using dynamic zones
